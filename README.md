@@ -3,13 +3,13 @@
 ## Setup machine to create vscode extensions
 - Install nodejs and npm
 - Install vscode (Optional)
-- run ``npm install -g yo generator-code``
-- run ``yo code`` to create project scaffolding.
+- run `npm install -g yo generator-code`
+- run `yo code` to create project scaffolding.
 - update `extensionPack` in package.json to include existing extensions.
 - add `publisher` to package.json and put unique id from market place account.
 - update README.md
-- run ``npm install -g vsce``
-- run ``vsce package`` (To publish the pack)
+- run `npm install -g vsce`
+- run `vsce package` (To publish the pack)
 - upload `.vsix` file to market place (manually)
 
 ## About this pack
