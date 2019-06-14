@@ -4,6 +4,8 @@
 - Install nodejs and npm
 - Install vscode (Optional)
 - run `npm install -g yo generator-code`
+
+## Create a vs code extension
 - run `yo code` to create project scaffolding.
 - update `extensionPack` in package.json to include existing extensions.
 - add `publisher` to package.json and put unique id from market place account.
@@ -13,7 +15,7 @@
 - upload `.vsix` file to market place (manually)
 
 ## About this pack
-This is a vscode extension pack to install usefull vscode extension in a single installation.
+This is a vscode extension pack to install useful vscode extension in a single installation.
 
 This extension includes following extensions:
 - "alefragnani.Bookmarks",
