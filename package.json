@@ -12,6 +12,7 @@
   "extensionPack": [
     "alefragnani.Bookmarks",
     "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
     "CoenraadS.bracket-pair-colorizer",
     "dbaeumer.vscode-eslint",
     "docsmsft.docs-markdown",
