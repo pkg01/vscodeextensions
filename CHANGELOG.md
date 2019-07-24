@@ -4,6 +4,10 @@ All notable changes to the "vscodeextensions" extension pack will be documented 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.2.0]
+
+- added **fernandoescolar.vscode-solution-explorer**,
+  
+## [1.1.0]
 
 - Initial release
