@@ -2,7 +2,7 @@
   "name": "vscodeextensions",
   "displayName": "pkg01.vscodeextensions",
   "description": "pkg01.vscodeextensions",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.35.0"
   },
@@ -18,6 +18,7 @@
     "docsmsft.docs-markdown",
     "eamodio.gitlens",
     "EQuimper.react-native-react-redux",
+    "fernandoescolar.vscode-solution-explorer",
     "GrapeCity.gc-excelviewer",
     "Gruntfuggly.todo-tree",
     "hbenl.vscode-test-explorer",
