@@ -20,10 +20,13 @@ This is a vscode extension pack to install useful vscode extension in a single i
 This extension includes following extensions:
 - "alefragnani.Bookmarks",
 - "christian-kohler.npm-intellisense",
+- "christian-kohler.path-intellisense",
 - "CoenraadS.bracket-pair-colorizer",
 - "dbaeumer.vscode-eslint",
+- "docsmsft.docs-markdown",
 - "eamodio.gitlens",
 - "EQuimper.react-native-react-redux",
+- "fernandoescolar.vscode-solution-explorer",
 - "GrapeCity.gc-excelviewer",
 - "Gruntfuggly.todo-tree",
 - "hbenl.vscode-test-explorer",
@@ -63,6 +66,7 @@ This extension includes following extensions:
 - "vscjava.vscode-maven",
 - "vscjava.vscode-spring-boot-dashboard",
 - "vscjava.vscode-spring-initializr",
+- "yzhang.markdown-all-in-one",
 - "wayou.vscode-todo-highlight"
 
 **Enjoy!**
